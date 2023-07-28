@@ -118,7 +118,7 @@ Todas as linhas que começam com contrabarra ( \ ), ou barra invertida, como o p
 \t – alterna a exibição de cabeçalhos de nome de coluna de saída e rodapé de contagem de linha.  
 \z – lista tabelas, visualizações e sequências com seus privilégios de acessos associados.  
 
-A definição completa de todos os meta-comandos, além de todos os aspectos oficiais relacionados ao postegres, pode ser encontrado na documentação oficial do PostgreSQL: https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-US.pdf
+A definição completa de todos os meta-comandos, além de todos os aspectos oficiais relacionados ao postegres, pode ser encontrado na documentação oficial do PostgreSQL: https://www.postgresql.org/docs/current/index.html
 
 ## SQL e PostgreSQL  
 SQL é um acrônimo para Structured Query Language (Linguagem de Consulta Estruturada). E o seu nome sugere exatamente o que ela faz:  
