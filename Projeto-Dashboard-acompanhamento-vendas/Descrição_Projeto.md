@@ -2,7 +2,7 @@
 
 ## Objetivo
 ### Criar um dashboard de vendas com os principais indicadores de desempenho e com os principais driver dos resultados do mês
-![image](https://github.com/ademarionobre/SQL-para-Analise-de-Dados-PostgreSQL/assets/92057489/4b39d1ca-e038-40e2-9c4a-71fa2d67678b)
+______
 Questões requeridas
 - Mostrar gráfico de receita no tempo
 - Gráfico de leads e conversão no tempo
@@ -29,3 +29,7 @@ Cliente utilizad MS Excel portanto as queries geradas irão alimentar planilha p
 
 -- (Query 5) Dias da semana com maior número de visitas ao site
 -- Colunas: dia_semana, dia da semana, visitas (#)
+______
+*Dashboard Vendas Final - MS Excel*
+![image](https://github.com/ademarionobre/SQL-para-Analise-de-Dados-PostgreSQL/assets/92057489/ddbf7827-66fa-4239-b893-cf62225abc7f)
+
