@@ -1,0 +1,5 @@
+id_disciplina,nome,ementa
+4,quimica,ligacoes quimicas
+5,historia,historia do brasil
+6,geografia,geopolitica e cartografia
+7,biologia,corpo humano e taxonomia
